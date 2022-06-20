@@ -48,8 +48,8 @@ body{
 }
 
 .video video{
-    width: 960px;
-    height: 540px;
+    width: 540px;
+    height: 960px;
     object-fit: cover;
 
 }
